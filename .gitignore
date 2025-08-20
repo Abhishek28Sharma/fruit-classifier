@@ -1,0 +1,12 @@
+# Ignore dataset
+dataset/
+*.zip
+*.tar.gz
+
+# Ignore model files
+*.h5
+*.keras
+
+# Ignore Python cache
+__pycache__/
+*.pyc
