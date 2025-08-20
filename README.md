@@ -62,11 +62,6 @@ Epoch 10/10
 200/200 [==============================] - 40s 200ms/step - loss: 0.1102 - accuracy: 0.9654 - val_loss: 0.0856 - val_accuracy: 0.9783
 ```
 
-**Training Accuracy Curve (example):**
-
-![Training Plot](training_plot.png)
-
----
 
 ## 🔮 Prediction
 
