@@ -75,13 +75,7 @@ python src/predict.py --image dataset/test/apple/apple1.jpg
 
 ```
 Predicted: apple
-```
 
-**Sample Test Image:**
-
-<img src="sample_dataset/apple/apple1.jpg" alt="Apple Example" width="200">
-
----
 
 ## 📊 Results
 
